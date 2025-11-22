@@ -1,15 +1,10 @@
-# **Ex.No.7 – Develop a Prompt-Based Application Tailored to Personal Needs**
+Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-**Register No.: 212222210021**
-**Name: Rishanth**
+Register no.: 212222210021
+Name: Rishanth S
 
----
-
-## **Aim:**
-
-To develop a prompt-based application using ChatGPT and demonstrate how to create a natural-language personal productivity assistant capable of managing daily tasks, scheduling reminders, suggesting wellness tips, and answering general queries.
-The experiment also shows how prompts progress from simple to advanced levels for real-life usage.
-
+Aim:
+To develop a prompt-based application using ChatGPT – To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 ---
 
 ## **AI Tools Required:**
